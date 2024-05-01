@@ -1,0 +1,25 @@
+{
+  "name": "ik-guess_number",
+  "version": "1.0.0",
+  "description": "Number guessing game by Muhammad Irfan ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "number-irfan": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20",
+    "ik-guess_number": "^1.0.0",
+    "user": "^0.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  }
+}
